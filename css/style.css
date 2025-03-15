@@ -119,7 +119,7 @@ button {
         font-size: 0.9rem;
     }
 
-    #search-section {
+    .search-section {
         display: flex;
         justify-content: center;
         flex-direction: column;
