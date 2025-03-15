@@ -43,7 +43,8 @@ This is a simple JavaScript-based product page that allows users to search and f
 3. **Search by Price**: Enter a price and click "Search" to find products at that price.
 
 ## Screenshots
-![Product Page Screenshot](./img/screenshot.png) *(Add an actual screenshot here)*
+![Product Page Screenshot](./img/screenshot.png) 
+![Product Page Screenshot](./img/screenshot-iphone.png) 
 
 ## Future Enhancements
 - Add an "Add to Cart" functionality.
