@@ -43,8 +43,10 @@ This is a simple JavaScript-based product page that allows users to search and f
 3. **Search by Price**: Enter a price and click "Search" to find products at that price.
 
 ## Screenshots
-![Product Page Screenshot](./img/screenshot.png) 
-![Product Page Screenshot](./img/screenshot-iphone.png) 
+<div style="display: flex; gap: 20px; flex-wrap: wrap">
+  <img src="./img/screenshot.png" alt="Product Page Screenshot" width="433px">
+  <img src="./img/screenshot-iphone.png" alt="Product Page Screenshot" height="308px">
+</div>
 
 ## Future Enhancements
 - Add an "Add to Cart" functionality.
@@ -52,7 +54,8 @@ This is a simple JavaScript-based product page that allows users to search and f
 - Improve UI with animations.
 
 ## Author
-Developed by Reza Salimi. Feel free to connect!
+Developed by Reza Salimi
+Feel free to connect!
 
 ---
 ### Happy Coding! 🚀
